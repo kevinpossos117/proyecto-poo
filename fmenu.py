@@ -3,6 +3,9 @@ from tkinter import ttk, messagebox
 import os
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
+import firebase_admin
+
+firebase_admin.initialize_app(cred, {})
 
 class AgroMaxApp:
     def __init__(self, root):

@@ -1,3 +1,4 @@
 ----- FACTURA DE PRUEBA -----
-Producto X - $10,000
-TOTAL: $10,000
+Producto X - 10,000
+producto y - 20,000
+TOTAL: $30,000
