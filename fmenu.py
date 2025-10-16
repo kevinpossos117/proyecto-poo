@@ -5,7 +5,10 @@ from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
 import firebase_admin
 
-firebase_admin.initialize_app(cred, {})
+cred = credentials.Certificate("C:\Users\Estudiante\Documents\programacion orientada a objetos\proyecto poo\agromax-73287-firebase-adminsdk-fbsvc-5fb6496632.json")
+firebase_admin.initialize_app(cred)
+
+
 
 class AgroMaxApp:
     def __init__(self, root):
