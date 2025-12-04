@@ -76,5 +76,14 @@ Genera:
 - OpenPyXL para reportes  
 - FTP para imágenes  
 
+## Presentación y Demostración del Sistema AGROMAX
+
+Para una explicación visual y detallada del funcionamiento de la aplicación, el flujo de ventas y la interfaz de usuario, puede ver el video de presentación oficial del proyecto:
+
+[![Video de Presentación AGROMAX](https://img.youtube.com/vi/aqIFYVvje08/0.jpg)](https://youtu.be/aqIFYVvje08)
+
+**Enlace Directo:** [Ver Presentación del Proyecto en YouTube](https://youtu.be/aqIFYVvje08)
+
+
 ## Conclusión
 AgroMax es una herramienta completa para apoyar la gestión de inventarios y ventas en negocios agrícolas. Su arquitectura modular permite mantener y escalar el sistema fácilmente.
